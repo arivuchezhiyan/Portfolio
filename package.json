@@ -1,0 +1,23 @@
+{
+  "name": "arivuchezhiyan-portfolio",
+  "version": "2.0.0",
+  "description": "Industrial Portfolio of Arivuchezhiyan E — Full-Stack Developer & Aspiring Game Developer (Unreal Engine 5)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "unreal-engine-5",
+    "developer",
+    "performance",
+    "web-audio"
+  ],
+  "author": "Arivuchezhiyan E",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
