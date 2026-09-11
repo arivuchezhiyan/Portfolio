@@ -7,7 +7,8 @@
  */
 
 const RECIPIENT_EMAIL = "arivuchezhiyan000@gmail.com";
-const RECAPTCHA_SECRET = "6LdjUbUtAAAAALLfnrNGpmoTzz8ZdvTFSJE71vvU";
+// Google reCAPTCHA v2 Secret Key
+const RECAPTCHA_SECRET = "6LcaYbUtAAAAAJQjZMzTh4GKns0tGUFUGS1DDytg";
 
 // OPTIONAL: Paste Google Sheet ID to maintain an audit log of all inquiries.
 // Leave as "" to only send email notifications.
